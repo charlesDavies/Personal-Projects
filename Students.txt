@@ -1,0 +1,40 @@
+STUDENT NUMBER 18005432
+	Student Age: 77
+	Student ID: 18005432
+	Student First Name: Johnson
+	Student Last Name: James
+	Course One: dance
+	Course Two: english
+
+STUDENT NUMBER 16006546
+	Student Age: 33
+	Student ID: 16006546
+	Student First Name: Holbert
+	Student Last Name: Hughes
+	Course One: swimming
+	Course Two: flying
+
+STUDENT NUMBER 14009876
+	Student Age: 100
+	Student ID: 14009876
+	Student First Name: Kim
+	Student Last Name: Possible
+	Course One: gymnastics
+	Course Two: english
+
+STUDENT NUMBER 18007361
+	Student Age: 22
+	Student ID: 18007361
+	Student First Name: Charles
+	Student Last Name: Davies
+	Course One: ComputerScience
+	Course Two: ComputerScience
+
+STUDENT NUMBER 7578484
+	Student Age: 33
+	Student ID: 7578484
+	Student First Name: jimmy
+	Student Last Name: hunn
+	Course One: cijij
+	Course Two: wjiji
+

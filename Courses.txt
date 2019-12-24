@@ -1,0 +1,21 @@
+	compsci
+	AI
+	H
+	24/09/19
+	16/08/20
+	4
+
+	compsci
+	bigwilly
+	H
+	24/09/19
+	07/06/20
+	2
+
+	Course Subject: melisgay
+	Course Name: melsucks
+	Course Level: i
+	Course Start: now
+	Course End: end
+	Course Assessment Amount8
+
